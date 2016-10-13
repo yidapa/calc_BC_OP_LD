@@ -1,19 +1,15 @@
 ######################################
-# 
 # calc_BC_OP_LD.sh
-# 
-# By Chunyun Tu 
-# Email: yidapa@yeah.net  
-# 
-# Date: 2016-10-12 
-# 
-# No warranty, no liability; 
-# you use this at your own risk. 
-# 
-# You are free to modify and 
-# distribute this without giving 
-# credit to the original author. 
-# 
+By Chunyun Tu 
+Email: yidapa@yeah.net  
+ 
+Date: 2016-10-12 
+
+No warranty, no liability; 
+you use this at your own risk.  
+You are free to modify and 
+distribute this without giving 
+credit to the original author. 
 #####################################
 
 # Purpose and usage of the code 
